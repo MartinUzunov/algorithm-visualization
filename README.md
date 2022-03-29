@@ -5,3 +5,7 @@ Algorithm visualization illustrates how algorithms work in a graphical way. It's
 
 # How to start the game
 Make sure to have [Python](https://python.org) installed and run `python -m pip install -r requirements` in the repository folder.
+
+## License
+
+Licensed under the [MIT License](https://github.com/MartinUzunov/algorithm-visualization/blob/master/LICENSE.md).
